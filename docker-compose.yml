@@ -1,0 +1,8 @@
+services:
+  kmeans-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mon-kmeans-visuel
+    ports:
+      - "8080:80"
