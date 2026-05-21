@@ -1,6 +1,5 @@
 # K-Means 3D
 
-Visualisation interactive d'un clustering K-Means en 3D avec Three.js.
 
 ## Lancer le projet
 
@@ -20,3 +19,5 @@ http://localhost:8080
 - Animation des iterations K-Means.
 - Affichage des points par cluster.
 - Affichage du centre de chaque cluster et de l'inertie.
+![alt text](image.png)
+
